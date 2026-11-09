@@ -61,4 +61,4 @@ Ajuste o caminho do arquivo `music_project_en.csv` na primeira célula de códig
 ---
 
 **Deivison** — Gestor de tráfego e especialista em marketing digital. Uso dados pra decidir onde investir e onde cortar.
-Vamos conversar no [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL).
+Vamos conversar no [LinkedIn](https://www.linkedin.com/in/deivisonsouza/).
